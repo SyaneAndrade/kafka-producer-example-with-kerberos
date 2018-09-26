@@ -1,2 +1,2 @@
-# kafka-producer-example-with-kerberus
+# kafka-producer-example-with-kerberos
 A kafka producer example with kerberos config
